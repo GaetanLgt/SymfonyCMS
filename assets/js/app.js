@@ -1,6 +1,6 @@
 import "../css/app.scss";
 
-import { dropdown } from "bootstrap";
+import { Dropdown } from "bootstrap";
 
 document.addEventListener('DOMContentLoaded', () => {
     enableDropDown();
